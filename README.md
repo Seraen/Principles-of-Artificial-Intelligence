@@ -1,5 +1,5 @@
-# AU342 Principles of Artificial Intelligence
- Here are some codes of AU342 in SJTU
+# Principles of Artificial Intelligence
+ Here are some codes of Principles of Artificial Intelligence in SJTU
  
 HW1:Minimax Alpha-Beta Pruning
 ---
